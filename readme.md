@@ -1,3 +1,5 @@
+NO DEBO DEJAR MI GITHUB ABIERTO :3
+
 # pasos para cargar el github
 
 Primero ir a la pagina de GitHub
